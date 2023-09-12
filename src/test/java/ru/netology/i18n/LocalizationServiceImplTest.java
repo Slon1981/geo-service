@@ -4,7 +4,7 @@ import org.junit.Assert;
 import org.junit.Test;
 import ru.netology.entity.Country;
 
-public class LocalizationTest {
+public class LocalizationServiceImplTest {
 
     @Test
     public void locTest() {
